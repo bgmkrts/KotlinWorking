@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="899bbb5b-1bb8-441b-b308-9578d48b088c" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/androidTest/java/com/begumkaratas/benimbirinciuygulamam/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/java/com/begumkaratas/benimbirinciuygulamam/BenimDunya.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/java/com/begumkaratas/benimbirinciuygulamam/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/app/src/test/java/com/begumkaratas/benimbirinciuygulamam/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BenimBirinciUygulamam/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/androidTest/java/com/begumkaratas/hatalarielealmak/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/java/com/begumkaratas/hatalarielealmak/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/app/src/test/java/com/begumkaratas/hatalarielealmak/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HatalariEleAlmak/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/androidTest/java/com/begumkaratas/kotlinoop/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/java/com/begumkaratas/kotlinoop/Dans.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/java/com/begumkaratas/kotlinoop/Hayvan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/java/com/begumkaratas/kotlinoop/Insan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/java/com/begumkaratas/kotlinoop/Islemler.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/java/com/begumkaratas/kotlinoop/Kahraman.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/java/com/begumkaratas/kotlinoop/Kopek.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/java/com/begumkaratas/kotlinoop/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/java/com/begumkaratas/kotlinoop/Sanatci.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/java/com/begumkaratas/kotlinoop/Sarki.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/java/com/begumkaratas/kotlinoop/SuperKahraman.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/app/src/test/java/com/begumkaratas/kotlinoop/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOOP/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/androidTest/java/com/begumkaratas/kotlinogreniyorum/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/java/com/begumkaratas/kotlinogreniyorum/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/app/src/test/java/com/begumkaratas/kotlinogreniyorum/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinOgreniyorum/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/androidTest/java/com/begumkaratas/ortaleriseviyekotlin/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/java/com/begumkaratas/ortaleriseviyekotlin/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/java/com/begumkaratas/ortaleriseviyekotlin/Sanatci.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/app/src/test/java/com/begumkaratas/ortaleriseviyekotlin/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrtaleriSeviyeKotlin/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/androidTest/java/com/begumkaratas/siniflarvefonksiyonlar/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/java/com/begumkaratas/siniflarvefonksiyonlar/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/java/com/begumkaratas/siniflarvefonksiyonlar/SuperKahraman.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/app/src/test/java/com/begumkaratas/siniflarvefonksiyonlar/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiniflarVeFonksiyonlar/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="30mXdDtdowcKEdp5aCs4T7JbZTI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/BEGUMKARATAS/AndroidStudioProjects/YemekKitab",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="899bbb5b-1bb8-441b-b308-9578d48b088c" name="Changes" comment="" />
+      <created>1754233806168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754233806168</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>
